@@ -47,7 +47,6 @@ export default function App() {
           <button>Tier 5</button>
         </div>
       </div>
-
       <div className="input2-container">
         <div>ROI at Current Rates</div>
         <input className="input" value="0.000 USD" type="text" />
